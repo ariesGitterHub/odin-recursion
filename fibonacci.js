@@ -31,6 +31,22 @@ console.log(
     3
   )}`
 ); // 2
+
+console.log(
+  `${findTheNthFibNumRecText1} 4th ${findTheNthFibNumRecText2}, ${findTheNthFibNumRec(
+    4
+  )}`
+); // 3
+console.log(
+  `${findTheNthFibNumRecText1} 5th ${findTheNthFibNumRecText2}, ${findTheNthFibNumRec(
+    5
+  )}`
+); // 5
+console.log(
+  `${findTheNthFibNumRecText1} 6th ${findTheNthFibNumRecText2}, ${findTheNthFibNumRec(
+    6
+  )}`
+); // 8
 console.log(
   `${findTheNthFibNumRecText1} 7th ${findTheNthFibNumRecText2}, ${findTheNthFibNumRec(
     7
